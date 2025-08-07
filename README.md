@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ilham Abdul Hakim 👋
 
-<!--
-**IlhamAbdul07/IlhamAbdul07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Frontend Developer with a passion for creating beautiful and interactive user interfaces. I have experience with **JavaScript**, **Flutter**, and **Graphic Design**, and I am eager to continue growing my skills in frontend development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Development**:  
+  - JavaScript (ES6+), HTML, CSS
+  - React, Vue.js, and other JavaScript frameworks
+  - Responsive Web Design
+  - Version Control (Git, GitHub)
+
+- **Mobile App Development**:  
+  - Flutter (Dart)
+
+- **Design**:  
+  - Adobe Photoshop, Illustrator, Figma
+
+## 🌱 I'm currently learning
+- Advanced JavaScript and frameworks like React and Vue.js
+- Mobile app design and development with Flutter
+
+## 📣 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/ilham-abdul-hakim-3bb5aa16a/)
+
+Feel free to explore my repositories and feel free to open issues or contribute to projects. Looking forward to collaborating with others!
+
+---
+
+*Last updated: [Current Date]*
